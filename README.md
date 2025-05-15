@@ -23,5 +23,6 @@ Trail juga menggunakan node `GPUParticles2D`, tetapi kita menambahkannya pada sc
 
 Awalnya tikus muncul dengan jumlah yang sangat banyak, sehingga player tidak dapat menyelesaikan permainan. Setelah coba-coba, nilai `spawn_rate = 2` cukup balanced dan player dapat menyelesaikan permainannya dengan sedikit problem solving. Player perlu bersembunyi sebentar di balik tebing dan menunggu timing yang tepat untuk melompat.
 
-![Screenshot](Screenshot 2025-05-15 220757.png)
+![Screenshot](Screenshot%202025-05-15%20220757.png)
+
 
